@@ -1,5 +1,4 @@
 # Service Foregrounder
-======================
 
 Cordova interface for keeping Android applications active while in the background. Gives you a way to start/stop the application from existence in the Android notification pull down by adding the icon from the app and a title/description. It's a nice way to provide information about what the app is doing in the bg as well as an easy way to get back into the app from the notification center.
 
